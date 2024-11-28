@@ -116,3 +116,7 @@ erDiagram
     service ||--o{ service_inti_or_close : "requested"
 ```
 
+
+## Additional Resources
+- **Video Tutorial**: [YouTube Video](https://youtu.be/yrqrI5WAHhI)
+- **Complete Info and Files**: [Google Drive Link](https://drive.google.com/file/d/1PDGp7iQhAE4qT3iNJT9z6j-hupGUaTR9/view?usp=drive)
